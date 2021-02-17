@@ -1,4 +1,5 @@
 # parallevar
-Denme Chamba
 
-Actualización lunes
+Clase programación
+
+Actualización Miercoles
